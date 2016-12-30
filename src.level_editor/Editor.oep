@@ -1,0 +1,52 @@
+<project>
+  <name>Slimower</name>
+  <settings>
+    <bgColor>0x151224</bgColor>
+    <defaultWidth>320</defaultWidth>
+    <defaultHeight>240</defaultHeight>
+    <minWidth>320</minWidth>
+    <minHeight>240</minHeight>
+    <maxWidth>6400</maxWidth>
+    <maxHeight>4800</maxHeight>
+    <workingDirectory>../src.assets/</workingDirectory>
+  </settings>
+  <tilesets> 
+    <tileset name="tiles" image="tiles/tileset.png" tileWidth="16" tileHeight="16" paletteScale="2"/>
+  </tilesets>
+  <objects>
+    <object name="player" image="sprites/player.png" width="16" height="16" limit="1" imageWidth="16" imageHeight="16"/>
+    <object name="coin" image="sprites/coin.png" width="8" height="8" imageWidth="8" imageHeight="8"/>
+    <folder name="enemies">
+      <object name="slimeGreen" image="sprites/blobs.png" width="16" height="16" imageWidth="16" imageHeight="16">
+        <values>
+          <integer name="speed" min="1" max="30" default="5" />
+        </values>
+      </object>
+      <object name="slimeBlue" image="sprites/blobs.png" width="16" height="16" imageWidth="16" imageHeight="16" imageOffsetY="16">
+        <values>
+          <integer name="speed" min="1" max="30" default="5" />
+        </values>
+      </object>
+      <object name="slimeYellow" image="sprites/blobs.png" width="16" height="16" imageWidth="16" imageHeight="16" imageOffsetY="32">
+        <values>
+          <integer name="speed" min="1" max="30" default="8" />
+        </values>
+      </object>
+      <object name="slimeRed" image="sprites/blobs.png" width="16" height="16" imageWidth="16" imageHeight="16" imageOffsetY="48">
+        <values>
+          <integer name="speed" min="1" max="30" default="10" />
+        </values>
+      </object>
+      <object name="slimeViolet" image="sprites/blobs.png" width="16" height="16" imageWidth="16" imageHeight="16" imageOffsetY="64">
+        <values>
+          <integer name="speed" min="1" max="30" default="8" />
+        </values>
+      </object>
+    </folder>
+  </objects>
+  <layers>
+    <tiles name="background" gridSize="16" tileset="tiles"/>
+    <tiles name="walls" gridSize="16" tileset="tiles"/>
+    <objects name="actors" gridSize="8"/>
+  </layers>
+</project>

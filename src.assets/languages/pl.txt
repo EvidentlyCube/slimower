@@ -1,0 +1,181 @@
+﻿# FILLER[[
+#  !"#$%&'()*+,-./0123
+# 456789:;<=>?@ABCDEFG
+# HIJKLMNOPQRSTUVWXYZ[
+# \]^_`abcdefghijklmno
+# pqrstuvwxyz{|}~´ÄÉÖÜ
+# ßáâãäçéêíóõöúüąćęŁłń
+# Śśźż
+# ]]
+
+key8=Backspace
+key9=Tabulacja
+key13=Enter
+key16=Shift
+key17=Control
+key18=Alt
+key19=Pause/Brk
+key20=Caps Lock
+key27=Escape
+key32=Spacja
+key33=Page Up
+key34=Page Down
+key35=End
+key36=Home
+key37=Lewo
+key38=Góra
+key39=Prawo
+key40=Dół
+key45=Insert
+key46=Delete
+key48=0
+key49=1
+key50=2
+key51=3
+key52=4
+key53=5
+key54=6
+key55=7
+key56=8
+key57=9
+key65=A
+key66=B
+key67=C
+key68=D
+key69=E
+key70=F
+key71=G
+key72=H
+key73=I
+key74=J
+key75=K
+key76=L
+key77=M
+key78=N
+key79=O
+key80=P
+key81=Q
+key82=R
+key83=S
+key84=T
+key85=U
+key86=V
+key87=W
+key88=X
+key89=Y
+key90=Z
+key91=L.Win/Cmd
+key92=P.Win
+key93=Menu
+key96=Num 0
+key97=Num 1
+key98=Num 2
+key99=Num 3
+key100=Num 4
+key101=Num 5
+key102=Num 6
+key103=Num 7
+key104=Num 8
+key105=Num 9
+key106=Num *
+key107=Num +
+key109=Num -
+key110=Num .
+key111=Num /
+key112=F1
+key113=F2
+key114=F3
+key115=F4
+key116=F5
+key117=F6
+key118=F7
+key119=F8
+key120=F9
+key121=F10
+key122=F11
+key123=F12
+key124=F13
+key125=F14
+key126=F15
+key144=Numlock
+key145=Scroll Lock
+key186=;
+key187==
+key188=,
+key189=-
+key190=.
+key191=/
+key192=~
+key219=[
+key220=\
+key221=]
+key222='
+
+keyLeftDesc=Ruch w Lewo
+keyRightDesc=Ruch w Prawo
+keyJumpDesc=Skok
+keySoundDesc=Przełącz Dźwięk
+keyMusicDesc=Przełącz Muzykę
+
+preloadTitle=Slimower
+preloadDesc=Niszcz, skacz, strzelaj! Przeoraj się przez armię glutów!
+
+choseLanguage=Wybierz język:
+
+Options=Opcje
+Credits=Twórcy
+Close=Zamknij
+Hiscores=Tabela wyników
+
+Game by=Gra stworzona przez
+RETROCADE.net=RETROCADE.net
+Programming=Programowanie
+Maurycy Zarzycki=Maurycy Zarzycki
+Graphics=Grafika
+Aleksander Kowalczyk=Aleksander Kowalczyk
+Music=Muzyka
+Sound Effects=Dźwięk
+Various Resources=Róźne źródła
+Translations=Tłumaczenia
+EN - Chris Allcock=EN - Chris Allcock
+PL - Maurycy Zarzycki=PL - Maurycy Zarzycki
+MusicSrc=Synthmania11 by Wojciech Panufnik
+SfxCredit=SFXR (Tomas Pettersson)
+
+Game is Paused=Pauza
+Return to Game=Kontynuuj
+Restart=Powtórz Poziom
+Return to Title Screen=Powróć do ekranu tytułowego
+Pause - Game lost focus=Pauza - kliknąłeś poza oknem
+Click to continue=Kliknij na oknie gry by kontynuować
+
+loading=Loading:
+
+Easy=Łatwy
+Medium=Średni
+Hard=Trudny
+Extreme=Straszny
+Suicide=Zabójczy
+
+easyInfo=- Odłamki glutów nie zadają obrażeń\n- Gluty ruszają się o 25% wolniej\n- Gluty mają tylko połowę życia\n- 1/10 Punktów
+mediumInfo=- Odłamki glutów nie odpychają\n- 1/5 Punktów
+hardInfo=- Odłamki glutów odpychają\n- Wszystkie statystyki standardowe
+extremeInfo=- Przeciwnicy mają o połowę więcej życia\n- Dwa razy więcej odłamków glutów\n- Podwojone punkty
+suicideInfo=- Przeciwnicy mają podwojone życie\n- Dwa razy więcej odłamków glutów\n- Przeciwnicy poruszają się o połowę szybciej\n- 5 razy więcej punktów
+hints=INSTRUKCJE:\n\nZniszcz wszystkie gluty by przejść etap.\nCeluj i strzelaj myszką.\nKorzystaj z podwójnego skoku by dotrzeć wyżej.\nSpróbuj uzyskać jak najwyższy wynik!
+
+Game is Paused=Pauza
+Return to Game=Kontunuuj
+Pause - Game lost focus=Pauza - Kliknąłeś poza polem gry
+Click to continue=Kliknij by kontynuować
+
+Points:=Punkty:
+GAME OVER=KONIEC GRY
+
+
+Surrender=Poddaj się
+Walkthrough=Pomoc
+surrenderTooltip=Ustawia czas na 0, wysyła wynik\ni wraca do ekranu tytułowego.
+helpTooltip=(Tylko po angielsku) Wskazówki i pomoc.\nLink otwiera się w nowym oknie.
+
+Time:=Czas:

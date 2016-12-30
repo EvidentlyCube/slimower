@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="Flex" version="4">
+  <component name="FlexBuildConfigurationManager" active="Slimower (DEBUG)">
+    <configurations>
+      <configuration name="Slimower (DEBUG)" pure-as="true" main-class="game.preloader.Preloader" output-file="Slimower_DEBUG.swf" output-folder="$MODULE_DIR$/bin">
+        <dependencies target-player="11.6">
+          <entries>
+            <entry library-id="87811f8a-c364-413d-8857-4abf62ea43bd">
+              <dependency linkage="Merged" />
+            </entry>
+          </entries>
+          <sdk name="flex_sdk_4.6.0_a_3.6" />
+        </dependencies>
+        <compiler-options>
+          <map>
+            <entry key="compiler.locale" value="en_US" />
+          </map>
+          <option name="resourceFilesMode" value="None" />
+          <option name="additionalOptions" value="-default-size=512,448 -optimize -default-background-color=0  -frame=ContentFrame,game.core.Main" />
+        </compiler-options>
+        <packaging-air-desktop />
+        <packaging-android />
+        <packaging-ios />
+      </configuration>
+      <configuration name="Slimower (RELEASE)" pure-as="true" main-class="game.preloader.Preloader" output-file="Slimower.swf" output-folder="$MODULE_DIR$/bin">
+        <dependencies target-player="11.6">
+          <entries>
+            <entry library-id="e1b396eb-b527-41f8-8e7f-b4e6dd729fa2">
+              <dependency linkage="Merged" />
+            </entry>
+          </entries>
+          <sdk name="flex_sdk_4.6.0_a_3.6" />
+        </dependencies>
+        <compiler-options>
+          <map>
+            <entry key="compiler.debug.swf" value="false" />
+            <entry key="compiler.locale" value="en_US" />
+          </map>
+          <option name="resourceFilesMode" value="None" />
+          <option name="additionalOptions" value="-default-size=512,448 -optimize -default-background-color=0  -frame=ContentFrame,game.core.Main" />
+        </compiler-options>
+        <packaging-air-desktop />
+        <packaging-android />
+        <packaging-ios />
+      </configuration>
+    </configurations>
+    <compiler-options />
+  </component>
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src.framework" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src.utils" isTestSource="false" />
+    </content>
+    <orderEntry type="jdk" jdkName="flex_sdk_4.6.0_a_3.6" jdkType="Flex SDK Type (new)" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library type="flex">
+        <properties id="87811f8a-c364-413d-8857-4abf62ea43bd" />
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/RETROCADE Framework/bin/RETROCADE Framework.swc!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library type="flex">
+        <properties id="e1b396eb-b527-41f8-8e7f-b4e6dd729fa2" />
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/RETROCADE Framework/bin/RETROCADE Framework.swc!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+  </component>
+</module>
