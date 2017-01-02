@@ -1,6 +1,6 @@
 ![Slimower logo](.readme/logo.png?raw=true)
 
-[![Slimower - Screenshot 1](.readme/screen_1_thumb.png?raw=true)](.readme/screen_1.png?raw=true) [![Slimower - Screenshot 2](.readme/screen_2_thumb.png?raw=true)](.readme/screen_2.png?raw=true) [![Slimower - Screenshot 3](.readme/screen_3_thumb.png?raw=true)](.readme/screen_3.png?raw=true) [![Slimower - Screenshot 4](.readme/screen_4_thumb.png?raw=true)](.readme/screen_4.png?raw=true) [![Slimower - Screenshot 5](.readme/screen_5_thumb.png?raw=true)](.readme/screen5.png?raw=true)
+[![Slimower - Screenshot 1](.readme/screen_1_thumb.png?raw=true)](.readme/screen_1.png?raw=true) [![Slimower - Screenshot 2](.readme/screen_2_thumb.png?raw=true)](.readme/screen_2.png?raw=true) [![Slimower - Screenshot 3](.readme/screen_3_thumb.png?raw=true)](.readme/screen_3.png?raw=true) [![Slimower - Screenshot 4](.readme/screen_4_thumb.png?raw=true)](.readme/screen_4.png?raw=true) [![Slimower - Screenshot 5](.readme/screen_5_thumb.png?raw=true)](.readme/screen_5.png?raw=true)
 
 Slimower is a minimalistic twin-stick platformer shooter featuring a moderate amount of fun
 
